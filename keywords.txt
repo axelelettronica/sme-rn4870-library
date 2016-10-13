@@ -1,0 +1,38 @@
+#######################################
+# Syntax Coloring Map SigFox communication network
+#######################################
+
+#######################################
+# Library (KEYWORD3)
+#######################################
+ble_rn4870	            KEYWORD3
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+sendData	   KEYWORD2
+hasAnswer	   KEYWORD2
+getLastAnswer	   KEYWORD2
+enterConfigurationMode	   KEYWORD2
+setName	   KEYWORD2
+setBaudRate	   KEYWORD2
+getBaudRate	   KEYWORD2
+setPowerSave	   KEYWORD2
+getPowerSave	   KEYWORD2
+getName	   KEYWORD2
+getFwVersion	   KEYWORD2
+getHwVersion	   KEYWORD2
+getSwVersion	   KEYWORD2
+getSN	   KEYWORD2
+startBLE	   KEYWORD2
+rawConfiguration	   KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
