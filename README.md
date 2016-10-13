@@ -2,7 +2,7 @@
 ---
 This is a library for the RN4870 a BLE 4.2 developed by Microchip 
 
-Microchip’s RN4870/71 Bluetooth® Low Energy Module is a fully certified Bluetooth
+Microchips RN4870/71 Bluetooth Low Energy Module is a fully certified Bluetooth
 Smart module offering Bluetooth 4.2 connectivity in compact form factor. 
 
 With all of its advanced features, it allows the Bluetooth Low Energy connectivity to be included in
@@ -22,7 +22,7 @@ The RN4870/71 supports both peripheral and central Generic Access Profile (GAP) 
 actively scanning for other connectable devices instead of waiting for incoming 
 connection requests.
 
-Written by Mik <smkk@axelelettronica.it>.  
+Written by Mik <mik@ioteam.it>.  
 
 ## Repository Contents
 ---
@@ -42,7 +42,7 @@ Written by Mik <smkk@axelelettronica.it>.
 ## License Information
 ---
 
-Copyright (c) Amel Technology. All right reserved.
+Copyright (c) IOTEAM S.r.l. All right reserved.
 
 This library is free software; you can redistribute it and/or
 modify it under the terms of the GNU Lesser General Public
