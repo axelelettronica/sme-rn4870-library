@@ -22,8 +22,6 @@ The RN4870/71 supports both peripheral and central Generic Access Profile (GAP) 
 actively scanning for other connectable devices instead of waiting for incoming 
 connection requests.
 
-Written by Mik <mik@ioteam.it>.  
-
 ## Repository Contents
 ---
 * **/examples** - Example sketches for the library (.ino). Run these from the Arduino IDE. 
