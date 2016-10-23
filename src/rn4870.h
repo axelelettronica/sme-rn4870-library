@@ -2,7 +2,7 @@
 #define RN4870_H
 
 #include <Arduino.h>
-#include "ble\rn4870Model.h"
+#include "ble/rn4870Model.h"
 
 
 class RN4870 {
